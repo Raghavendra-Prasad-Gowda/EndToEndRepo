@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21767" started-at="2020-02-23T11:32:23Z" finished-at="2020-02-23T11:32:45Z">
+    <groups>
+    </groups>
+    <test name="Ng1" duration-ms="12417" started-at="2020-02-23T11:32:23Z" finished-at="2020-02-23T11:32:35Z">
+      <class name="TestCases.FlipKartHomePage">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:TestCases.FlipKartHomePage@1b11171f]" name="OpenBrowser" is-config="true" duration-ms="3741" started-at="2020-02-23T11:32:23Z" finished-at="2020-02-23T11:32:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="NavigateToHomePage()[pri:0, instance:TestCases.FlipKartHomePage@1b11171f]" name="NavigateToHomePage" duration-ms="6338" started-at="2020-02-23T11:32:27Z" finished-at="2020-02-23T11:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToHomePage -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.FlipKartHomePage@1b11171f]" name="CloseBrowser" is-config="true" duration-ms="2320" started-at="2020-02-23T11:32:33Z" finished-at="2020-02-23T11:32:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestCases.FlipKartHomePage -->
+    </test> <!-- Ng1 -->
+    <test name="Ng2" duration-ms="9335" started-at="2020-02-23T11:32:35Z" finished-at="2020-02-23T11:32:45Z">
+      <class name="TestCases.DemoTestCase2">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:TestCases.DemoTestCase2@60bd273d]" name="OpenBrowser" is-config="true" duration-ms="3317" started-at="2020-02-23T11:32:35Z" finished-at="2020-02-23T11:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="DemoTest1()[pri:0, instance:TestCases.DemoTestCase2@60bd273d]" name="DemoTest1" duration-ms="0" started-at="2020-02-23T11:32:39Z" finished-at="2020-02-23T11:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest1 -->
+        <test-method status="PASS" signature="DemoTest2()[pri:0, instance:TestCases.DemoTestCase2@60bd273d]" name="DemoTest2" duration-ms="4164" started-at="2020-02-23T11:32:39Z" finished-at="2020-02-23T11:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest2 -->
+        <test-method status="PASS" signature="DemoTest3()[pri:0, instance:TestCases.DemoTestCase2@60bd273d]" name="DemoTest3" duration-ms="1" started-at="2020-02-23T11:32:43Z" finished-at="2020-02-23T11:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest3 -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.DemoTestCase2@60bd273d]" name="CloseBrowser" is-config="true" duration-ms="1851" started-at="2020-02-23T11:32:43Z" finished-at="2020-02-23T11:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestCases.DemoTestCase2 -->
+    </test> <!-- Ng2 -->
+  </suite> <!-- Suite -->
+</testng-results>

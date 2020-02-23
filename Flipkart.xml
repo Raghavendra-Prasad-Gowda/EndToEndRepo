@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="TestCases.MethodStatusHandler" />
+		<listener class-name="Resource.ExtentReporter" />
+	</listeners>
+	
+	<test thread-count="5" name="Ng1">
+		<classes>
+			<class name="TestCases.FlipKartHomePage" />
+
+		</classes>
+	</test>
+
+	<test thread-count="5" name="Ng2">
+		<classes>
+
+			<class name="TestCases.DemoTestCase2">
+
+			</class>
+		</classes>
+
+
+	</test>
+
+	<!-- Test -->
+</suite> <!-- Suite -->

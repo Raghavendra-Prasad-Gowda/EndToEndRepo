@@ -1,0 +1,493 @@
+23:54:02.122 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+23:54:02.124 [main] ERROR TestCases.FlipKartHomePage - Test
+23:54:10.107 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+23:54:10.444 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+23:54:39.103 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+23:54:39.105 [main] ERROR TestCases.FlipKartHomePage - Test
+23:54:45.215 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+23:54:45.353 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+23:55:30.741 [main] ERROR TestCases.FlipKartHomePage - Test
+11:00:09.136 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:00:09.139 [main] ERROR TestCases.FlipKartHomePage - Test
+11:00:15.086 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:00:15.227 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:01:23.438 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:01:23.441 [main] ERROR TestCases.FlipKartHomePage - Test
+11:01:30.085 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:01:30.227 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:02:16.024 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:02:16.026 [main] ERROR TestCases.FlipKartHomePage - Test
+11:02:21.509 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:02:21.724 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:32:44.676 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:32:44.678 [main] ERROR TestCases.FlipKartHomePage - Test
+11:32:49.975 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:32:50.280 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:32:50.329 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:32:55.521 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:32:59.983 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:33:05.122 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:34:43.258 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:34:43.260 [main] ERROR TestCases.FlipKartHomePage - Test
+11:34:49.431 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:34:49.543 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:34:49.579 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:34:52.150 [main] ERROR TestCases.DemoTestCase2 - Google Search Button is Eroor!!!!!
+11:34:54.468 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:34:58.942 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:35:00.790 [main] ERROR TestCases.DemoTestCase2 - Google Search Button is Eroor!!!!!
+11:35:03.107 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:36:20.450 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:36:20.452 [main] ERROR TestCases.FlipKartHomePage - Test
+11:36:25.289 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:36:25.466 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:36:25.516 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:36:27.354 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:36:29.665 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:36:31.959 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:36:35.341 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:36:37.674 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:44:31.950 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:44:31.953 [main] ERROR TestCases.FlipKartHomePage - Test
+11:44:37.606 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:44:37.727 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:44:37.765 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:44:40.416 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:44:42.738 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:44:45.004 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:44:47.717 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:44:50.033 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:46:34.293 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:46:35.645 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:46:37.954 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:46:40.252 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:46:42.754 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:46:45.065 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:52:06.362 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:52:06.365 [main] ERROR TestCases.FlipKartHomePage - Test
+11:52:11.835 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:52:11.963 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:52:12.002 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:52:14.378 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:52:16.705 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:52:18.909 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:52:20.833 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:52:23.170 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+11:55:29.098 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:55:29.100 [main] ERROR TestCases.FlipKartHomePage - Test
+11:55:34.312 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:55:34.433 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:56:50.491 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+11:56:50.493 [main] ERROR TestCases.FlipKartHomePage - Test
+11:56:56.158 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+11:56:56.306 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+11:56:58.614 [main] INFO  TestCases.DemoTestCase2 - TC2
+11:57:00.710 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+11:57:03.022 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+12:44:54.149 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+12:44:54.151 [main] ERROR TestCases.FlipKartHomePage - Test
+12:45:01.404 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+12:45:01.523 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+12:45:06.037 [main] INFO  TestCases.DemoTestCase2 - TC2
+12:45:08.674 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+12:45:10.993 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+12:46:49.765 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+12:46:49.768 [main] ERROR TestCases.FlipKartHomePage - Test
+12:46:55.081 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+12:46:55.396 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+12:47:02.379 [main] INFO  TestCases.DemoTestCase2 - TC2
+12:47:04.484 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+12:47:06.793 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+12:47:44.152 [main] INFO  TestCases.DemoTestCase2 - TC1
+12:47:44.160 [main] INFO  TestCases.DemoTestCase2 - TC2
+12:47:45.966 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+12:47:45.969 [main] INFO  TestCases.DemoTestCase2 - TC3
+12:47:48.280 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+12:48:01.220 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+12:48:01.223 [main] ERROR TestCases.FlipKartHomePage - Test
+12:48:07.306 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+12:48:12.518 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+12:48:19.397 [main] INFO  TestCases.DemoTestCase2 - TC2
+12:48:21.110 [main] INFO  TestCases.DemoTestCase2 - Google Serach Button Displayed
+12:48:23.428 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+12:52:23.316 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+12:52:23.319 [main] ERROR TestCases.FlipKartHomePage - Test
+12:52:29.552 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+12:52:29.654 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+12:52:31.964 [main] INFO  TestCases.DemoTestCase2 - TC2
+12:52:39.135 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+12:59:28.270 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+12:59:28.272 [main] ERROR TestCases.FlipKartHomePage - Test
+13:03:59.020 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:03:59.023 [main] ERROR TestCases.FlipKartHomePage - Test
+13:04:19.901 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:04:19.998 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:04:22.263 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:04:36.853 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+13:05:29.313 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:05:29.316 [main] ERROR TestCases.FlipKartHomePage - Test
+13:05:40.457 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:05:40.592 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:05:42.889 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:05:51.795 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+13:14:33.767 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:14:33.770 [main] ERROR TestCases.FlipKartHomePage - Test
+13:14:39.695 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:14:39.829 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:14:42.100 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:14:46.783 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+13:15:35.151 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:15:35.154 [main] ERROR TestCases.FlipKartHomePage - Test
+13:15:43.113 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:15:43.260 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:15:59.909 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:15:59.912 [main] ERROR TestCases.FlipKartHomePage - Test
+13:16:05.952 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:16:06.062 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:16:10.538 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:16:15.496 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+13:17:36.208 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:17:36.211 [main] ERROR TestCases.FlipKartHomePage - Test
+13:17:41.937 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:17:42.068 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:25:25.834 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:25:25.837 [main] ERROR TestCases.FlipKartHomePage - Test
+13:25:31.781 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:25:31.909 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:29:08.759 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:29:08.762 [main] ERROR TestCases.FlipKartHomePage - Test
+13:29:14.459 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:29:14.618 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:31:18.652 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:31:18.657 [main] ERROR TestCases.FlipKartHomePage - Test
+13:31:24.513 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:31:24.618 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:34:34.785 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:34:34.789 [main] ERROR TestCases.FlipKartHomePage - Test
+13:34:41.538 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:34:41.643 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:34:43.974 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:34:48.882 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+13:45:59.002 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:45:59.005 [main] ERROR TestCases.FlipKartHomePage - Test
+13:46:04.561 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:46:04.681 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:46:07.017 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:46:10.365 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+13:46:55.921 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:46:55.924 [main] ERROR TestCases.FlipKartHomePage - Test
+13:47:02.018 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:47:02.142 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:48:33.734 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:48:33.737 [main] ERROR TestCases.FlipKartHomePage - Test
+13:48:39.753 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:48:39.881 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:49:48.186 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+13:49:48.189 [main] ERROR TestCases.FlipKartHomePage - Test
+13:49:53.411 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+13:49:53.547 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+13:49:58.500 [main] INFO  TestCases.DemoTestCase2 - TC2
+13:50:04.135 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+14:07:26.543 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:07:26.545 [main] ERROR TestCases.FlipKartHomePage - Test
+14:07:32.470 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:07:32.661 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:07:35.352 [main] INFO  TestCases.DemoTestCase2 - TC2
+14:07:39.389 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+14:08:52.887 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:08:52.890 [main] ERROR TestCases.FlipKartHomePage - Test
+14:09:00.198 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:09:00.331 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:09:03.043 [main] INFO  TestCases.DemoTestCase2 - TC2
+14:09:07.914 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+14:17:06.053 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:17:06.056 [main] ERROR TestCases.FlipKartHomePage - Test
+14:17:58.721 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:17:58.723 [main] ERROR TestCases.FlipKartHomePage - Test
+14:18:04.811 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:18:04.945 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:18:31.322 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:18:31.324 [main] ERROR TestCases.FlipKartHomePage - Test
+14:18:37.550 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:18:37.664 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:20:13.232 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:20:13.235 [main] ERROR TestCases.FlipKartHomePage - Test
+14:20:19.550 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:20:19.694 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:20:58.253 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:20:58.256 [main] ERROR TestCases.FlipKartHomePage - Test
+14:21:04.590 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:21:04.832 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:21:09.817 [main] INFO  TestCases.DemoTestCase2 - TC2
+14:27:30.473 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:27:30.475 [main] ERROR TestCases.FlipKartHomePage - Test
+14:27:36.353 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:27:36.486 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:27:39.247 [main] INFO  TestCases.DemoTestCase2 - TC2
+14:27:43.683 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+14:29:47.768 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:29:47.771 [main] ERROR TestCases.FlipKartHomePage - Test
+14:29:53.690 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:29:53.828 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:29:56.561 [main] INFO  TestCases.DemoTestCase2 - TC2
+14:30:00.967 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+14:30:56.463 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+14:30:56.466 [main] ERROR TestCases.FlipKartHomePage - Test
+14:31:02.324 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+14:31:02.453 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+14:31:07.425 [main] INFO  TestCases.DemoTestCase2 - TC2
+14:31:12.004 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+15:03:27.275 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+15:03:27.278 [main] ERROR TestCases.FlipKartHomePage - Test
+15:03:37.135 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+15:03:37.256 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+15:03:39.997 [main] INFO  TestCases.DemoTestCase2 - TC1
+15:03:39.997 [main] INFO  TestCases.DemoTestCase2 - TC2
+15:03:42.119 [main] INFO  TestCases.DemoTestCase2 - TC3
+15:03:44.435 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:04:34.129 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:04:34.132 [main] ERROR TestCases.FlipKartHomePage - Test
+16:04:40.444 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:04:40.570 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:04:43.228 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:04:43.229 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:04:45.730 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:04:48.040 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:08:34.468 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:08:34.470 [main] ERROR TestCases.FlipKartHomePage - Test
+16:08:40.918 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:08:41.059 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:08:43.775 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:08:43.776 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:08:47.117 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:08:49.438 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:17:11.486 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:17:11.488 [main] ERROR TestCases.FlipKartHomePage - Test
+16:17:17.592 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:17:17.709 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:17:20.392 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:17:20.393 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:17:22.824 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:17:25.140 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:17:46.079 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:17:46.081 [main] ERROR TestCases.FlipKartHomePage - Test
+16:17:56.652 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:17:56.974 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:18:03.688 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:18:03.688 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:18:07.214 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:18:09.424 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:19:53.473 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:19:53.475 [main] ERROR TestCases.FlipKartHomePage - Test
+16:20:01.926 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:20:02.006 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:20:04.746 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:20:04.747 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:20:08.249 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:20:10.575 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:23:26.925 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:23:26.927 [main] ERROR TestCases.FlipKartHomePage - Test
+16:23:31.911 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:23:31.912 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:23:41.969 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:23:44.294 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:24:00.144 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:24:00.146 [main] ERROR TestCases.FlipKartHomePage - Test
+16:24:05.098 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:24:05.100 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:24:10.781 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:24:13.099 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:24:28.991 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:24:28.994 [main] ERROR TestCases.FlipKartHomePage - Test
+16:24:34.043 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:24:34.044 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:24:34.342 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:24:34.420 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:25:53.364 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:25:53.366 [main] ERROR TestCases.FlipKartHomePage - Test
+16:25:58.413 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:25:58.415 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:26:04.851 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:26:07.168 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:26:45.087 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:26:45.090 [main] ERROR TestCases.FlipKartHomePage - Test
+16:26:50.051 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:26:50.053 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:26:57.100 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:26:59.431 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:28:31.180 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:28:31.183 [main] ERROR TestCases.FlipKartHomePage - Test
+16:28:36.250 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:28:36.251 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:28:42.231 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:28:44.566 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:30:32.740 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:30:32.742 [main] ERROR TestCases.FlipKartHomePage - Test
+16:30:39.992 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:30:40.113 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:30:42.847 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:30:42.848 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:30:48.095 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:30:50.424 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:33:57.018 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:33:57.023 [main] ERROR TestCases.FlipKartHomePage - Test
+16:34:02.804 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:34:02.949 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:34:05.706 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:34:05.707 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:34:09.634 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:34:11.957 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:37:33.031 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:37:33.034 [main] ERROR TestCases.FlipKartHomePage - Test
+16:37:38.573 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:37:38.758 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:37:41.488 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:37:41.489 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:37:43.688 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:37:46.017 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:39:06.257 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:39:06.260 [main] ERROR TestCases.FlipKartHomePage - Test
+16:39:11.479 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:39:11.625 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:39:14.323 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:39:14.324 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:39:16.940 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:39:19.262 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:39:34.200 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:39:34.202 [main] ERROR TestCases.FlipKartHomePage - Test
+16:39:39.226 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:39:39.227 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:39:45.788 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:39:48.105 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:40:47.770 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:40:47.773 [main] ERROR TestCases.FlipKartHomePage - Test
+16:40:54.038 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:40:54.174 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:40:56.918 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:40:56.919 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:41:02.241 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:41:04.564 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:41:17.888 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:41:17.891 [main] ERROR TestCases.FlipKartHomePage - Test
+16:41:26.953 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:41:27.300 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:41:33.499 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:41:33.500 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:41:40.244 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:41:42.274 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:42:56.116 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:42:56.119 [main] ERROR TestCases.FlipKartHomePage - Test
+16:43:05.212 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:43:05.579 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:43:11.269 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:43:11.270 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:43:20.264 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:43:22.199 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:46:31.058 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:46:31.060 [main] ERROR TestCases.FlipKartHomePage - Test
+16:46:35.895 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:46:35.896 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:46:44.280 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:46:44.389 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:47:08.425 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:47:08.427 [main] ERROR TestCases.FlipKartHomePage - Test
+16:47:14.236 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:47:14.327 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:47:16.512 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:47:16.513 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:47:22.354 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:47:22.442 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:47:39.623 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:47:39.626 [main] ERROR TestCases.FlipKartHomePage - Test
+16:48:05.608 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:48:05.610 [main] ERROR TestCases.FlipKartHomePage - Test
+16:50:53.370 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:50:53.373 [main] ERROR TestCases.FlipKartHomePage - Test
+16:51:18.512 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:51:18.515 [main] ERROR TestCases.FlipKartHomePage - Test
+16:52:09.948 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:52:09.951 [main] ERROR TestCases.FlipKartHomePage - Test
+16:52:18.581 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:52:18.715 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:52:59.742 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:52:59.745 [main] ERROR TestCases.FlipKartHomePage - Test
+16:53:07.150 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:53:07.267 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:53:54.150 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:53:54.152 [main] ERROR TestCases.FlipKartHomePage - Test
+16:54:00.356 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:54:00.482 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:54:27.759 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:54:27.762 [main] ERROR TestCases.FlipKartHomePage - Test
+16:54:34.651 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:54:34.781 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:55:34.907 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:55:34.910 [main] ERROR TestCases.FlipKartHomePage - Test
+16:55:43.127 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:55:43.209 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:55:45.767 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:55:45.773 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:55:46.090 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:55:46.123 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:56:41.226 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:56:41.229 [main] ERROR TestCases.FlipKartHomePage - Test
+16:56:48.911 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:56:49.026 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:56:51.610 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:56:51.619 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:56:54.540 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:56:54.637 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+16:59:01.928 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+16:59:01.931 [main] ERROR TestCases.FlipKartHomePage - Test
+16:59:08.376 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+16:59:08.503 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+16:59:11.048 [main] INFO  TestCases.DemoTestCase2 - TC1
+16:59:11.055 [main] INFO  TestCases.DemoTestCase2 - TC2
+16:59:13.224 [main] INFO  TestCases.DemoTestCase2 - TC3
+16:59:13.338 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+17:01:04.023 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+17:01:04.026 [main] ERROR TestCases.FlipKartHomePage - Test
+17:01:11.789 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+17:01:11.890 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+17:01:14.464 [main] INFO  TestCases.DemoTestCase2 - TC1
+17:01:14.468 [main] INFO  TestCases.DemoTestCase2 - TC2
+17:01:17.232 [main] INFO  TestCases.DemoTestCase2 - TC3
+17:01:17.339 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+17:01:57.123 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+17:01:57.126 [main] ERROR TestCases.FlipKartHomePage - Test
+17:02:05.531 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+17:02:05.639 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+17:02:07.801 [main] INFO  TestCases.DemoTestCase2 - TC1
+17:02:07.803 [main] INFO  TestCases.DemoTestCase2 - TC2
+17:02:09.833 [main] INFO  TestCases.DemoTestCase2 - TC3
+17:02:09.936 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+17:02:23.508 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+17:02:23.510 [main] ERROR TestCases.FlipKartHomePage - Test
+17:02:33.161 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+17:02:33.549 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+17:02:39.245 [main] INFO  TestCases.DemoTestCase2 - TC1
+17:02:39.246 [main] INFO  TestCases.DemoTestCase2 - TC2
+17:02:43.412 [main] INFO  TestCases.DemoTestCase2 - TC3
+17:02:45.263 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+17:03:42.619 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+17:03:42.623 [main] ERROR TestCases.FlipKartHomePage - Test
+17:03:47.737 [main] INFO  TestCases.DemoTestCase2 - TC1
+17:03:47.738 [main] INFO  TestCases.DemoTestCase2 - TC2
+17:03:48.006 [main] INFO  TestCases.DemoTestCase2 - TC3
+17:03:48.087 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+17:04:47.983 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+17:04:47.985 [main] ERROR TestCases.FlipKartHomePage - Test
+17:04:56.147 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+17:04:56.245 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+17:04:58.382 [main] INFO  TestCases.DemoTestCase2 - TC1
+17:04:58.383 [main] INFO  TestCases.DemoTestCase2 - TC2
+17:05:00.540 [main] INFO  TestCases.DemoTestCase2 - TC3
+17:05:00.619 [main] INFO  TestCases.DemoTestCase2 - Browser Close
+17:05:20.708 [main] INFO  TestCases.FlipKartHomePage - Initialized browser
+17:05:20.711 [main] ERROR TestCases.FlipKartHomePage - Test
+17:05:28.385 [main] INFO  TestCases.FlipKartHomePage - Opening the URL 
+17:05:28.726 [main] INFO  TestCases.FlipKartHomePage - X button clicked
+17:05:34.167 [main] INFO  TestCases.DemoTestCase2 - TC1
+17:05:34.167 [main] INFO  TestCases.DemoTestCase2 - TC2
+17:05:38.515 [main] INFO  TestCases.DemoTestCase2 - TC3
+17:05:41.128 [main] INFO  TestCases.DemoTestCase2 - Browser Close

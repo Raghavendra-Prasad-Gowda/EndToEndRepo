@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="TestCases.MethodStatusHandler"/>
+    <listener class-name="Resource.ExtentReporter"/>
+  </listeners>
+  <test thread-count="5" name="Ng1(failed)">
+    <classes>
+      <class name="TestCases.FlipKartHomePage">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="NavigateToHomePage"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- TestCases.FlipKartHomePage -->
+    </classes>
+  </test> <!-- Ng1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
